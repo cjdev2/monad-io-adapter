@@ -1,5 +1,5 @@
 name: monad-io-adapter
-version: 0.0.0.0
+version: 0.1.0.0
 category: Control
 synopsis: Adapters between MonadIO and MonadBase IO.
 description: |
@@ -24,6 +24,7 @@ maintainer: Alexis King <lexi.lambda@gmail.com>
 github: cjdev/monad-io-adapter
 
 extra-source-files:
+- CHANGELOG.md
 - package.yaml
 - README.md
 - stack.yaml
